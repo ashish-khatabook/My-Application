@@ -1,1 +1,2 @@
 sh 'pwd'
+sh 'ls'
